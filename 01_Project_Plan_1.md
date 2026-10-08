@@ -13,7 +13,7 @@
 
 | Role | Name | Student ID | Group | Contact |
 | :--- | :--- | :--- | :--- | :--- |
-| **Team Leader** | Sobirov Muhammadullo | `202490310` | I24D | +998 95 175 95 60 |
+| **Team Leader** | Sobirov Muhammadullo | `202490310` | I24D | - |
 | **Member 1** | Begjanov Artur | `202490087` | I24D | - |
 | **Member 2** | Ahmadjonov Shohruz | `202490028` | I24D | - |
 
